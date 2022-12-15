@@ -55,7 +55,7 @@ function modelReady() {
   poseNet.on('pose', gotPose);
   // This sets up an event that fills the global variable "poses"
 }
-
+//kHCBhjcvUDC
 function gotPose(results) {
   poses = results;
 
